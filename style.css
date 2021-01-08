@@ -18,7 +18,7 @@ h1 {
     top: 17%;
     left: 26%;
     border: 2px solid black;
-    box-shadow: 8px 8px dimgray;
+    box-shadow: 0.4rem 0.4rem dimgray;
 }
 .slot {
     height: 100px;
@@ -72,14 +72,14 @@ h1 {
 }
 
 .popUp {
-    width: 400px;
-    height: 300px;
+    width: 40%;
+    height: 37%;
     position: absolute;
     left: 36%;
     top: 30%;
     background-color: rgb(241, 234, 224);
     border: 2px solid black;
-    box-shadow: 5px 5px grey;
+    box-shadow: 0.6rem 0.6rem grey;
     z-index: 4;
     transition-delay: 2000ms;
 }
@@ -87,7 +87,7 @@ h1 {
 .textContainer {
     font-size: 3rem;
     font-weight: bold;
-    margin: 5px 5px;
+    margin: 1%;
     text-align: center;
     font-family: monospace;
 }
