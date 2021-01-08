@@ -2,13 +2,10 @@
     margin: 0;
 }
 
-@font-face {
-    font-family: "Superfly";
-    src: local("/Users/naya/Library/Fonts/SUPERFLY.TTF");
-}
+
 h1 {
     text-align: center;
-    font-family: "Superfly";
+    font-family: 'Superfly', sans-serif;
 }
 
 #board {
