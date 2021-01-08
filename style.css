@@ -2,10 +2,16 @@
     margin: 0;
 }
 
-
-h1 {
+.top-line {
     text-align: center;
+    font-size: 5rem;
     font-family: 'Superfly', sans-serif;
+}
+
+.desc-line{
+    font-size: 2rem;
+    font-family: monospace;
+    text-align: center;
 }
 
 #board {
