@@ -4,14 +4,14 @@
 
 .top-line {
     text-align: center;
-    font-size: 5rem;
+    font-size: 75px;
     font-family: 'Superfly', sans-serif;
 }
 
-.desc-line{
-    font-size: 2rem;
+#desc-line{
     font-family: monospace;
     text-align: center;
+    font-size: 25px;
 }
 
 #board {
