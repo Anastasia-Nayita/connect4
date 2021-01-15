@@ -3,7 +3,7 @@
 ![Connect four Demo](demo.gif)
 
 ## Synopsis
-A simple connect four game built with HTML, CSS, and JS. 
+A classic connect four game built with HTML, CSS, and JS. 
 The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs. 
 Connect Four is a solved game. The first player can always win by playing the right moves.
 
